@@ -11,14 +11,8 @@
 
 
 
-- ig  **[@_mr.__suraj___]**
+- ig  ** @_mr.__suraj___**
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-
-
-
-
-
 
 - 📫 How to reach me **surajnayak301301@gmail.com**
 

@@ -12,20 +12,6 @@
  </div>
 
 
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suraj Nayak</h1>
-
-<div class="container">
-    <h1 class="neonText">
-         I'm a Software Engineer
-    </h1>
-    <h2 class="neonText">WelCome to My Profile</h2> 
-
- </div>
-
  working on **[Cavisson System]**
 
 - ig  **[@_mr.__suraj___]**

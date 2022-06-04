@@ -18,6 +18,19 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
+
+<p align="left">
+
+ <a href="#"><"https://tenor.com/" target="_blank"> <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/> </a>
+                                                     
+
+
+
+
+ </p>
+                                    
+
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
